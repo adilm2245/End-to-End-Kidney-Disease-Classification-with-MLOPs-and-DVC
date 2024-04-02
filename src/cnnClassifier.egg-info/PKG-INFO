@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/adilm2245/End-to-End-Kidney-Disease-Classification-with-MLOPs-and-DVC
+Author: adilm2245
+Author-email: adilm2245@gmail.com
+Project-URL: Bug Tracker, https://github.com/adilm2245/End-to-End-Kidney-Disease-Classification-with-MLOPs-and-DVC/issues
+License-File: LICENSE
+
+# End-to-End-Kidney-Disease-Classification-with-MLOPs-and-DVC
